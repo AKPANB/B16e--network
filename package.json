@@ -1,0 +1,14 @@
+
+{
+  "name": "b16e-network",
+  "version": "0.1.0",
+  "private": true,
+  "description": "B16e financial ledger and risk-control engine",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
